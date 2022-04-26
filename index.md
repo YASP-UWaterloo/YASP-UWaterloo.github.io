@@ -9,6 +9,6 @@ The goal of the podcast is two-fold: first, to provide an informal medium for re
 
 #### _Season 1 will (tentatively) release Sundays at 8 PM EST starting December 4th, 2022._
 
-[### Speakers](./speakers.html)
+### [Speakers](./speakers.html)
 
-[### Contact Details](./contact.html).
+### [Contact Details](./contact.html).
