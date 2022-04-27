@@ -1,4 +1,4 @@
-![Logo](./assets/img/logo.png=100x100)
+![Logo](./assets/img/logo.png=250x250)
 # YASP-UWaterloo.github.io
 
 The initial website for YASP
