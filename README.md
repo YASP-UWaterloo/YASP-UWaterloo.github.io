@@ -1,2 +1,4 @@
+![Logo](./assets/img/logo.png)
 # YASP-UWaterloo.github.io
-A website for the podcast and relevant details
+
+The initial website for YASP
