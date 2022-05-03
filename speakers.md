@@ -25,3 +25,21 @@ Speaking on
 
 Speaking on ...
 
+### [Armando Solar-Lezama](https://people.csail.mit.edu/asolar/), _Massachusetts Institute of Technology_
+
+![Armando Solar-Lezama](./assets/img/alezama.jpg)
+
+Speaking on 
+
+
+### [Clark Barrett](https://theory.stanford.edu/~barrett/), _Stanford University_
+
+![Clark Barrett](./assets/img/cbarret.jpg)
+Speaking on ...
+
+
+### [Cliff Burgees](https://physics.mcmaster.ca/~cburgess/cburgess/), _McMaster University_
+
+![Cliff Burgees](./assets/img/cliff.jpg)
+
+Speaking on ...
