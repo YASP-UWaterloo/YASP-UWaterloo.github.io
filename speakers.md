@@ -43,6 +43,7 @@ Speaking on ...
 ### [Clark Barrett](https://theory.stanford.edu/~barrett/), _Stanford University_
 
 ![Clark Barrett](./assets/img/cbarret.jpg)
+
 Speaking on ...
 
 
