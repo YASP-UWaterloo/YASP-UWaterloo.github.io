@@ -7,7 +7,7 @@ layout: default
 ### Host and Organizer : Joseph Scott
 _University of Waterloo_ 
 
-Email :
+Email: *Will be added shortly.* 
 
 
 ### Production Team
@@ -15,45 +15,46 @@ Email :
 * #### David Oluwadmilare Olona, Production Lead
   _University of Waterloo_
   
-  Email:
+  Email: *Will be added shortly.* 
+
 * #### Aiden Fox Ivey, Production Engineer
   _University of Waterloo_
 
-  Email:
+  Email: abfoxive@uwaterloo.ca
 
 ### Technical Team
 
 * #### Guanting Pan, Technical Lead
   _University of Waterloo_
 
-  Email:
+  Email: *Will be added shortly.* 
 
 * #### Andre Slavescu, Technical Lead
   _University of Waterloo_
 
-  Email :
+  Email: *Will be added shortly.* 
 
 * #### Austin You, Technical Engineer
   _University of Waterloo_
 
-  Email : 
+  Email: *Will be added shortly.* 
 
 * #### Dylan Potts, Editor
-  Email:
+  Email: *Will be added shortly.* 
 
 * #### Anthony Nicholas, Quality Engineer
   _Ashland University_
 
-  Email:    
+  Email: *Will be added shortly.*     
 
 ### Web Development 
 
 * #### Keane Moraes
   _University of Waterloo_
 
-  Email : 
+  Email: *Will be added shortly.* 
 
 * #### Dylan Creech
   _Ohio University_
 
-  Email : 
+  Email: *Will be added shortly.*  
